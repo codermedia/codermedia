@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Akhil Purushothaman also known as codermedia</h1>
+<h1 align="center">Hi 👋, I'm Akhil Purushothaman(codermedia)</h1>
 <h3 align="center">An intermediate frontend developer with a lot of in hand experiences</h3>
 
 - 🌱 I’m currently learning **NextJS, Backend technologies**
 
 - 📫 How to reach me **akhilpurushothaman@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Contact me on : </h3>
 <h3>
