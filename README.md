@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Akhil Purushothaman(codermedia)</h2>
 <h3 align="left">An intermediate frontend developer with a lot of in hand experiences</h3>
 
-- 🌱 I’m currently learning **NextJS, Backend technologies**
+- 🌱 I’m currently learning **Redux, Backend technologies**
 
 <h3 align="left" style="display:flex;justify-items:center;align-items:center;min-height:100vh;">Contact me on => </h3>
 <a align="left" href="https://www.linkedin.com/in/akhil-purushothaman1996/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akhil-purushothaman1996" height="30" width="40" /></a>
