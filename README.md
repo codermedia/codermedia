@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akhil Purushothaman(codermedia)</h1>
+<h2 align="center">Hi 👋, I'm Akhil Purushothaman(codermedia)</h2>
 <h3 align="left">An intermediate frontend developer with a lot of in hand experiences</h3>
 
 - 🌱 I’m currently learning **NextJS, Backend technologies**
