@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Akhil Purushothaman(codermedia)</h2>
-<h3 align="left">An intermediate frontend developer with a lot of in hand experiences</h3>
+<h3 align="left">An intermediate frontend developer with a lot of hand-on experiences</h3>
 
 - 🌱 Acquiring knowledge on **Redux, Backend technologies**
 
